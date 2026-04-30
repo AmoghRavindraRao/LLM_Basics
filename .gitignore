@@ -11,3 +11,4 @@ Phase3/JapaneseNLP.csv
 Phase3/best_reverse_transformer.pt
 Phase3/bert-sentiment/
 Phase3/bert-sentiment-results/
+Phase3/mock_text.txt
