@@ -12,3 +12,6 @@ Phase3/best_reverse_transformer.pt
 Phase3/bert-sentiment/
 Phase3/bert-sentiment-results/
 Phase3/mock_text.txt
+Phase3/jsb-chorales-16th.pkl
+Phase3/best_model.pt
+Phase3/bach_output.mid
