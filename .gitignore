@@ -15,3 +15,6 @@ Phase3/mock_text.txt
 Phase3/jsb-chorales-16th.pkl
 Phase3/best_model.pt
 Phase3/bach_output.mid
+Phase3/bach_satb_groundtruth.mid
+Phase3/bach_satb_predicted.mid
+Phase3/best_satb_model.pt
